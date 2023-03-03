@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "titulo": "Fuente de Alimentación Sentey 850W",
+        "imagen": "./img/Fuente_de_Alimentacion.jpg",
+        "categoria": {
+            "nombre": "Fuente de Alimentación",
+            "id": "Fuente de Alimentación"
+        },
+        "precio": 19500
+    },
+    {
+        "id": "2",
+        "titulo": "Gabinete Gamer GameMax G561",
+        "imagen": "./img/Gabinete.jpg",
+        "categoria": {
+            "nombre": "Gabinete",
+            "id": "Gabinete"
+        },
+        "precio": 29000
+    },
+    {
+        "id": "3",
+        "titulo": "Memoria RAM Corsair Vengeance PRO 16GB",
+        "imagen": "./img/Memoria_Ram.jpg",
+        "categoria": {
+            "nombre": "Memoria RAM",
+            "id": "Memoria RAM"
+        },
+        "precio": 51000
+    },
+    {
+        "id": "4",
+        "titulo": "Memoria SSD Spectrix S40G 1TB",
+        "imagen": "./img/Memoria_Ssd.jpg",
+        "categoria": {
+            "nombre": "Memoria SSD",
+            "id": "Memoria SSD"
+        },
+        "precio": 14900
+    },
+    {
+        "id": "5",
+        "titulo": "Micro Procesador AMD Ryzen 7 5700G",
+        "imagen": "./img/Micro_Procesador.jpg",
+        "categoria": {
+            "nombre": "Micro Procesador",
+            "id": "Micro Procesador"
+        },
+        "precio": 103900
+    },
+    {
+        "id": "6",
+        "titulo": "Motherboard Asus Rog Strix Z590-e",
+        "imagen": "./img/MotherBoard.jpg",
+        "categoria": {
+            "nombre": "MotherBoard",
+            "id": "MotherBoard"
+        },
+        "precio": 122500
+    },
+    {
+        "id": "7",
+        "titulo": "Tarjeta Gráfica GeForce RTX™ 4070 Ti",
+        "imagen": "./img/Tarjeta_Grafica.jpg",
+        "categoria": {
+            "nombre": "Tarjeta Gráfica",
+            "id": "Tarjeta Gráfica"
+        },
+        "precio": 600000
+    },    
+    {
+        "id": "8",
+        "titulo": "Monitor Gamer Led 22 Fullhd Samsung",
+        "imagen": "./img/Monitor.jpg",
+        "categoria": {
+            "nombre": "Monitor",
+            "id": "Monitor"
+        },
+        "precio": 49000
+    }    
+]
