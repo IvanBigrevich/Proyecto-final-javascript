@@ -1,6 +1,6 @@
 let productos = [];
 
-fetch("./js/productos.json")
+fetch("https://github.com/IvanBigrevich/Proyecto-final-javascript/blob/main/js/productos.json")
     .then(response => response.json())
     .then(data => {
         productos = data;
